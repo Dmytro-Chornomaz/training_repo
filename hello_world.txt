@@ -2,3 +2,9 @@ public void Print()
 {
   Console.WriteLine("Hello World");
 }
+
+public stringNewPrint()
+{
+  Console.WriteLine("Hello New World");
+  return "hello new world";
+}
