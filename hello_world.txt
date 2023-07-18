@@ -3,7 +3,8 @@ public void Print()
   Console.WriteLine("Hello World");
 }
 
-public void NewPrint()
+public stringNewPrint()
 {
   Console.WriteLine("Hello New World");
+  return "hello new world";
 }
