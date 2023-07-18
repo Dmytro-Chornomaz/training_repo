@@ -2,3 +2,8 @@ public void Print()
 {
   Console.WriteLine("Hello World");
 }
+
+public void NewPrint()
+{
+  Console.WriteLine("Hello New World");
+}
