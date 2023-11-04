@@ -1,3 +1,2 @@
 # training_repo
-My training repository
-0123456789
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus ligula odio, ut commodo ex accumsan non. Aliquam quam ex, ultricies eu pellentesque in, tempor eget felis. Vivamus laoreet, quam id vehicula fermentum, eros diam laoreet neque, id lobortis enim dui in nulla. Praesent mollis mi nec scelerisque porttitor. Ut gravida nisi vel porttitor tincidunt. Aliquam feugiat eros eget neque blandit, at molestie sapien sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id nibh vulputate, finibus nibh at, lacinia neque. Pellentesque vel turpis maximus, hendrerit felis ut, scelerisque diam. Curabitur odio nibh, eleifend vitae gravida ullamcorper, ultrices a dui. Donec in dolor vel massa feugiat iaculis. 
