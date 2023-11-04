@@ -1,3 +1,7 @@
+function mainFunc() {
+console.log("Main function work");
+}
+
 function getValue() {
 return 6;
 }
